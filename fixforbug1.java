@@ -1,1 +1,3 @@
-modified on master branch this is the fix for bug1 
+
+this is the fix for bug1 suggested by mr.mgr
+
